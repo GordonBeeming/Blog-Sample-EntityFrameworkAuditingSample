@@ -188,6 +188,7 @@
     <Compile Include="Models\ApplicationDbContext.cs" />
     <Compile Include="Models\Audit.cs" />
     <Compile Include="Models\Contact.cs" />
+    <Compile Include="Models\DbContextBase.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="OwinContextHelper.cs" />
